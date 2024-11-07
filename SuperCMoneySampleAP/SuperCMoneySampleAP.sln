@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCMoneySampleAP", "SuperCMoneySampleAP\SuperCMoneySampleAP.csproj", "{F85AB943-CE83-4170-82B2-C219BCE6615B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rinnbo", "Rinnbo\Rinnbo.csproj", "{C65BE586-1CE5-47C5-8B10-1FF4D07180DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85AB943-CE83-4170-82B2-C219BCE6615B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85AB943-CE83-4170-82B2-C219BCE6615B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85AB943-CE83-4170-82B2-C219BCE6615B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85AB943-CE83-4170-82B2-C219BCE6615B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65BE586-1CE5-47C5-8B10-1FF4D07180DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65BE586-1CE5-47C5-8B10-1FF4D07180DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65BE586-1CE5-47C5-8B10-1FF4D07180DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65BE586-1CE5-47C5-8B10-1FF4D07180DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F15527-4AB9-45D1-ABA1-6ABD9788876F}
+	EndGlobalSection
+EndGlobal
