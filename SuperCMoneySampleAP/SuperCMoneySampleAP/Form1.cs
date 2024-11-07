@@ -14,6 +14,13 @@ namespace SuperCMoneySampleAP
         public Form1()
         {
             InitializeComponent();
+            //填入假資料
+        }
+
+        private void FillFakeData()
+        {
+            //填入假資料
+            
         }
     }
 }
